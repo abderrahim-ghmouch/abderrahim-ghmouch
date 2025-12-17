@@ -6,7 +6,7 @@ I'm learnig how to build simple and nice websites and improving my coding skills
 
 ### 🧠 What I’m Doing now
 I’m learning how to write clean code and create web projects from start to finish.
-also I'm currently learning javascript
+also I'm currently learning PHP
 
 ### 💻 Languages & Tools
 <p align="left">
