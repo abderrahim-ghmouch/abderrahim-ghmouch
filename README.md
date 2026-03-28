@@ -1,32 +1,40 @@
-# 👋 Hi, I'm Abderrahim Ghmouch
+# 👨‍💻 Bonjour, je suis Abderrahim Ghmouch
 
+<div align="center">
+  <a href="mailto:abderrahimghmouch47@gmail.com">
+    <img src="https://media.tenor.com/GjE4yG2Z2BIAAAAd/shinzou-wo-sasageyo-aot.gif" width="100%" alt="Erwin Smith - Shinzou wo Sasageyo!" style="border-radius: 15px;" />
+  </a>
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=800&height=50&duration=4000&color=F71111&lines=Déviez+vos+coeurs+!+(Shinzou+wo+Sasageyo+!);Développeur+Full-Stack;Président+du+Club+Robotique+YouCode;À+la+recherche+d'un+stage+!" />
+</div>
 
+Je conçois des applications web propres et performantes, avec un fort intérêt pour l'architecture backend et la cybersécurité.
 
-I'm a **a Full Stack Developer student** at **YouCode**.  
+### 🚀 Mes Projets Récents
+| Projet | Description |
+| ------ | ----------- |
+| **LinkUp** | Réseau social interactif avec profils, publications et gestion d'amis. |
+| **MarocExplore** | API permettant de créer des itinéraires touristiques personnalisés. |
+| **Donify** | Plateforme de financement participatif (crowdfunding). |
 
-I'm learning web developement while building simple and nice websites and improving my coding skills.
+### 🧠 Ce que j'explore en ce moment
+- **Technologies :** Vue.js
+- **Concepts :** Cybersécurité et patrons de conception orientés objet (SOLID, MVC).
 
-### 🧠 What I’m Doing now
-I’m learning how to write clean code and create web projects from start to finish.
-also I'm currently learning Vue.JS
-
-### 💻 Languages & Tools
+### 🛠️ Technologies et Outils
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" height="35"/>
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35"/>
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SCSS" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
+  </p>
+
+### 📊 Mes Statistiques GitHub
+<p align="center">
+  <a href="https://github.com/abderrahim-ghmouch">
+    <img src="https://github-readme-stats.vercel.app/api?username=abderrahim-ghmouch&show_icons=true&theme=tokyonight&locale=fr&hide_border=true" alt="Statistiques GitHub" height="150"/>
+  </a>
+  <a href="https://github.com/abderrahim-ghmouch">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahim-ghmouch&layout=compact&theme=tokyonight&locale=fr&hide_border=true" alt="Langages les plus utilisés" height="150"/>
+  </a>
 </p>
 
-### 📫 Contact
-- GitHub: https://github.com/abderrahim-ghmouch
-- Email: abderrahimghmouch47@gmail.com
+### 📫 Me contacter
+- **Email :** abderrahimghmouch47@gmail.com
+- **GitHub :** [abderrahim-ghmouch](https://github.com/abderrahim-ghmouch)
