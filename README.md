@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Abderrahim Ghmouch
 
-I'm a **aFull Stack Developer student** at **YouCode**.  
 
-I'm learnig how to build simple and nice websites and improving my coding skills.
+
+I'm a **a Full Stack Developer student** at **YouCode**.  
+
+I'm learning web developement while building simple and nice websites and improving my coding skills.
 
 ### 🧠 What I’m Doing now
 I’m learning how to write clean code and create web projects from start to finish.
@@ -21,7 +23,8 @@ also I'm currently learning Vue.JS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Figma" width="35" height="35"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
 </p>
 
 ### 📫 Contact
