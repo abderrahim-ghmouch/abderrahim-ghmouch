@@ -6,7 +6,7 @@ I'm learnig how to build simple and nice websites and improving my coding skills
 
 ### 🧠 What I’m Doing now
 I’m learning how to write clean code and create web projects from start to finish.
-also I'm currently learning PHP
+also I'm currently learning Vue.JS
 
 ### 💻 Languages & Tools
 <p align="left">
@@ -21,6 +21,7 @@ also I'm currently learning PHP
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="35" height="35"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Figma" width="35" height="35"/>
 </p>
 
 ### 📫 Contact
