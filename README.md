@@ -38,3 +38,5 @@ Je conçois des applications web propres et performantes, avec un fort intérêt
 ### 📫 Me contacter
 - **Email :** abderrahimghmouch47@gmail.com
 - **GitHub :** [abderrahim-ghmouch](https://github.com/abderrahim-ghmouch)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abderrahim-ghmouch)](https://github.com/anuraghazra/github-readme-stats)
+
