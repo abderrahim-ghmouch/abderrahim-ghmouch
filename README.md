@@ -32,7 +32,7 @@
 - 🎓 Studying at YouCode — Safi, Morocco
 - 🌱 Learning Vue.js
 - 💼 Looking for an internship
-- 🎂 Birthday: April 4th
+- 🎂 Birthday: April 7th
 
 ---
 
