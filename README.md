@@ -39,28 +39,29 @@ Currently open to **internships, junior roles, and collaborations** where I can 
 
 <!-- Repo names below are real. Edit the one-line descriptions to match what each project actually does. -->
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**donify**](https://github.com/abderrahim-ghmouch/donify) | _One line: what problem it solves_ | PHP |
-| [**linkup**](https://github.com/abderrahim-ghmouch/linkup) | _One line: what problem it solves_ | Laravel · Blade |
-| [**CineHall**](https://github.com/bahaztariq/CineHall) | _Team project: what it does and your part in it_ | PHP |
-| [**dashboard-GC**](https://github.com/abderrahim-ghmouch/dashboard-GC) | _One line: what the dashboard shows_ | HTML · CSS |
+| Project |
+|---|---|
+| [**donify**](https://github.com/abderrahim-ghmouch/donify) | 
+| [**linkup**](https://github.com/abderrahim-ghmouch/linkup) |
+| [**CineHall**](https://github.com/bahaztariq/CineHall) |
+| [**dashboard-GC**](https://github.com/abderrahim-ghmouch/dashboard-GC) | 
 
-<p>
+
+<h2>
   <a href="https://github.com/abderrahim-ghmouch/donify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abderrahim-ghmouch&repo=donify&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/abderrahim-ghmouch/linkup"><img src="https://github-readme-stats.vercel.app/api/pin/?username=abderrahim-ghmouch&repo=linkup&theme=tokyonight&hide_border=true" /></a>
 </p>
 
 # GitHub Stats
 
-<p>
+<h3>
   <img src="https://streak-stats.demolab.com/?user=abderrahim-ghmouch&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahim-ghmouch&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</h>
 
 # Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 # Let's Connect
 
