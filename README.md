@@ -1,8 +1,5 @@
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/4846e377-390c-4ddc-8958-86c7b7993564" />
 <!-- Save this as README.md in the repo: abderrahim-ghmouch/abderrahim-ghmouch -->
-
-<p align="center"><img src="assets/banner.svg" alt="Abderrahim Ghmouch banner" width="100%" /></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:a371f7&height=100&section=header" width="100%" />
 
 <h1 align="center">Abderrahim Ghmouch</h1>
 <p align="center"><i>I build clean web apps, from the interface to the backend.</i><br/>CS student & junior fullstack developer · Casablanca 🇲🇦</p>
